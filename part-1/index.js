@@ -1,4 +1,4 @@
 ReactDOM.render(
-  <NamedComponent name="Brittiany" />,
+  <App />,
   document.getElementById("root")
 );
